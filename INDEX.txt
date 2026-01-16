@@ -1,0 +1,129 @@
+CHAPTER NO            TITLE              PAGE NO
+                   Abstract
+                   Table Of contents
+                   List of Tables
+                   List of figures
+                  List of abbreviation and nomenclature
+1                   INTRODUCTION
+                    1.1 SIGNIFICANCE OF EARLY INTERVENTION IN DYSLEXIA
+                    1.2 CHALLENGES FACED BY DYSLEXIC LEARNER
+                        1.2.1 Reading Difficulty 
+                        1.2.2 Limited Accessibility
+                        1.2.3 Psychological Impact 
+                        1.2.4 Language Diversity
+			1.2.5 Dependence on human assistance
+		   1.3 OBJECTIVES OF THE SMART ASSISTIVE TOOL FOR DYSLEXIC KIDS
+		        1.3.1 Development of an Image-Based Text Extraction System
+                        1.3.2 Implementation of Multilingual Text Recognition
+			1.3.3 Integration of High-Quality Text-to-Speech Synthesis
+			1.3.4 Design of a Portable and Standalone Device
+			1.3.5 Development of a User-Friendly Interface
+			1.3.6 Evaluation of System Performance and Accuracy
+		  1.4 COMPARATIVE ANALYSIS OF CURRENT READING AIDS
+			1.4.1 JAWS Screen Readers
+			1.4.2 C-Pen Reader
+			1.4.3 Limitations of C-Pen Reader & JAWS Application
+ 		  1.5 PROPOSED COGNITIVE READING MODEL
+			1.5.1 Raspberry Pi–Based Assistive Hardware Module
+			1.5.2 Multilingual Vision-to-Speech Software Engine
+			1.5.3 Dyslexia-Friendly Reading Workflow
+		 1.6 INCLUSIVE LEARNING FEATURES AND OPERATIONAL HIGHLIGHTS
+		 1.7 CONCEPTUAL FRAMEWORK OF THE SMART ASSISTIVE READING SYSTEM
+ 			1.7.1 Sensory-Integrated Learning Approach 
+			1.7.2 User-Centered Design Considerations 
+			1.7.3 Community Supported Ecosystem 
+			1.7.4 Multilingual Inclusivity
+		1.8  EDUCATIONAL AND SOCIAL IMPACT ON CHILDREN
+			1.8.1 Educational Inclusion
+			
+                        1.8.2 Psychological and Emotional Benefits 
+			1.8.2 Psychological and Emotional Benefits 
+			1.8.3 Diverse Language Accessibility
+			1.8.4 Economic Accessibility
+			1.8.5 Parental and Teacher Support
+			1.8.6 Source Scalability and Adaptability
+			1.8.7 Societal Impact
+2	       CURRENT TECHNOLOGICAL LANDSCAPES FOR DYLEXIA SUPPORT
+               2.1 REVIEW OF RELATED LITERATURE AND TECHNOLOGIES
+	       2.2 DYSLEXIA AND LEARNING CHALLENGES
+	       2.3 ASSISTIVE TECHNOLOGY FOR DYSLEXIA
+			2.3.1 Text-to-Speech Technology
+      			2.3.3 Mobile Applications and Digital Solutions
+			2.3.4 Dedicated Hardware Devices
+	       2.4 OPTICAL CHARACTER RECOGNITION TECHNOLOGY
+			2.4.1 Tesseract OCR Engine
+			2.4.2 Preprocessing and Optimization
+		2.5 TEXT-TO-SPEECH SYNTHESIS SYSTEMS
+			2.5.1 Neural Network-Based TTS
+			2.5.2 Piper TTS Framework
+		2.6 RASPBERRY PI AS AN EDUCATIONAL PLATFORM
+			2.6.1 Hardware Capabilities
+			2.6.2 Educational Adoption and Accessibility
+			2.6.3 Multilingual Support in Assistive Technology
+		2.7 GAPS IN EXISTING RESEARCH AND SOLUTIONS
+			2.7.1 Offline Functionality
+			2.7.2 Cost Accessibility
+			2.7.3 Language Support
+			2.7.4 Educational Context 
+			2.7.5 Age-Appropriate Design
+		2.8 RESEARCH INSIGHTS AND IDENTIFIED GAPS
+
+3	       RASPBERRY PI 4 MODULE
+	       3.1 PROCESSING LOGIC AND SYSTEM FUNCTIONALITY OVERVIEW
+	       3.2 CIRCUIT CONNECTION LAYOUT
+	       3.3 FUNCTIONAL BLOCK REPRESENTATION
+		 
+               3.4 HARDWARE REQUIREMENTS 
+			3.4.1 Raspberry Pi 4 Model B (4GB RAM)
+			3.4.2 Raspberry Pi Camera rev 1.3
+			3.4.3 Micro SD Card (32GB)
+			3.4.4 Power Supply (5V, 3A)
+			3.4.5 3.5mm wired earphones
+ 			3.4.6 Push Button
+	     3.5 SOFTWARE REQUIREMENTS
+ 			3.5.1 Operating System: Raspberry Pi OS – Bullseye Version
+			 3.5.2 Programming Language: Python
+			 3.5.3 Optical Character Recognition: Tesseract OCR
+			3.5.4 Text-to-Speech Engine: Piper TTS
+		        3.5.5 Supporting Libraries and Dependencies
+4	    DESIGN & FUNCTIONAL FLOW OF THE DYSLEXIA READING ASSISTANCE SYSTEM
+	    4.1 ALGORITHM
+		      4.1.1  Multi-Stage OCR-to-TTS Pipeline Algorithm
+	   4.2 PSEUDO CODE
+	   4.3 CODE
+           4.4 SEQUENTIAL WORKFLOW
+5          SCREENSHOTS
+6          CONCLUSION
+	   6.1 FINAL EVALUATION AND PEDAGOGICAL IMPLICATIONS
+	   6.2.FUTURE ENHANCEMENTS
+	              6.2.1. Advanced Machine Learning & AI Integration
+		      6.2.2. Expanded Language Support and Script Recognition	
+		      6.2.3. Enhanced User Interface and Accessibility Features
+		      6.2.4. Personalization and Adaptive Learning
+		      6.2.5. Hardware Improvements and Alternative Form Factors
+7	  REFERENCE
+
+
+
+
+
+			
+
+
+
+		
+	
+				
+			
+				
+                   1. Cover Page & Title Page
+2. Bonafide Certificate
+3. Abstract
+4. Table of Contents
+5. List of Tables
+6. List of Figures
+7. List of Symbols, Abbreviations and Nomenclature
+8. Chapters
+9. Appendices
+10. References
+The table and figures shall
